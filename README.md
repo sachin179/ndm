@@ -1,6 +1,6 @@
 # ndm
 
-#cent os 
-#fedora
-#vmware woktation
+<br>cent os 
+<br>fedora
+<br>vmware woktation
 
